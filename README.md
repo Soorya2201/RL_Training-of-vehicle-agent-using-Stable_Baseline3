@@ -61,7 +61,7 @@ Status: TRAINING
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/rl-self-driving-car.git
+git clone [https://github.com/Soorya2201/RL_Training-of-vehicle-agent-using-Stable_Baseline3]
 cd rl-self-driving-car
 ```
 
@@ -88,7 +88,7 @@ python rl_car.py
 
 1. **Launch the program**
    ```bash
-   python rl_car.py
+   python main2.py
    ```
 
 2. **Click the START button** (green) to begin training
@@ -115,7 +115,7 @@ python rl_car.py
 
 ```
 ┌─────────────────┐
-│  5 Radar Sensors│ ──► Measures distance to walls
+│  5 Radar Sensors│ ──► Measures distance to walls (Using Ray Projection) 
 └────────┬────────┘
          │
          ▼
