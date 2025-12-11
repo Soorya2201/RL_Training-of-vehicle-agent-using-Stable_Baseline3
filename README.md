@@ -62,7 +62,6 @@ Status: TRAINING
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Soorya2201/RL_Training-of-vehicle-agent-using-Stable_Baseline3]
-cd rl-self-driving-car
 ```
 
 ### 2. Install Dependencies
@@ -407,6 +406,6 @@ Project Link: [https://github.com/yourusername/rl-self-driving-car](https://gith
 
 **⭐ Star this repo if you found it helpful! ⭐**
 
-Made with ❤️ and 🤖 by [Your Name]
+Made with ❤️ by Soorya Narayanan 
 
 </div>
